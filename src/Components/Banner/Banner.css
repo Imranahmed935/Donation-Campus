@@ -1,0 +1,21 @@
+/* .banner {
+  background-image: url("../../assets/Resources/Health.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 500px;opacity: 0.1;
+} */
+
+/* <div className="banner py-20">
+      <h1 className="text-center font-bold text-5xl text-green-500 mb-8">
+        I Grow By Helping People In Need
+      </h1>
+      <div className="flex justify-center items-center">
+        <input
+          className="w-96 h-12 p-4 text-slate-600 bg-slate-200 shadow outline-none border-none"
+          type="text"
+          placeholder="Search..."
+        />
+        <button className="btn btn-success w-32 text-white h-10">Search</button>
+      </div>
+    </div> */
